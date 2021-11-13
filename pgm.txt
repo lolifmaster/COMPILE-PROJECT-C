@@ -1,0 +1,22 @@
+## PROCESS $
+## ARRAY $
+Programme TEST{  
+    VAR
+        INTEGER :: Aaaa // Aaa := 0 // T[2] // Azz $
+        REAL :: S $
+    CONST 
+        STRING :: A = "lol" $
+
+    EXECUT
+    	
+        Azz := 51 + Aaa $
+        EXECUT
+    	     Azz := 51 + Aaa $
+              WRITE("ADR"|Idf)$
+        IF(A SUPE 2)
+        END_IF
+       WRITE("ADR"|Idf)$
+    IF(A SUPE 2)
+    END_IF
+    
+   }
